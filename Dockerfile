@@ -1,4 +1,4 @@
-FROM openjdk:8-open-jdk-alpine
+FROM openjdk:8-jdk-alpine
 
 ARG JAR_FILE=/target/*.jar
 
